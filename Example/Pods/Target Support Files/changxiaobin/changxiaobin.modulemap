@@ -1,0 +1,6 @@
+framework module changxiaobin {
+  umbrella header "changxiaobin-umbrella.h"
+
+  export *
+  module * { export * }
+}
