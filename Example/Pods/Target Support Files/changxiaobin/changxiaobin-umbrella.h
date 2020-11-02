@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "HPSubstringViewController.h"
 
 FOUNDATION_EXPORT double changxiaobinVersionNumber;
 FOUNDATION_EXPORT const unsigned char changxiaobinVersionString[];
